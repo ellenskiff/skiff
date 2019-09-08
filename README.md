@@ -1,5 +1,11 @@
 # Ellen Skiff Design home page
 
+## Building 
+
+```
+pub run build_runner build --release --output build/
+```
+
 Created with Dart, Stagehand and Tavern.
 
 ### Dart 
