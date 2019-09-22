@@ -2,27 +2,14 @@
 title: "Airship"
 template: lib/templates/_project.mustache
 ---
- 
-This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown.  
 
-## Projects 
-
-- [Bug Bounty](projects/airship.html)
-
-This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown.  
-
-## Projects 
-
-- [Bug Bounty](projects/airship.html)
-
-This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown.  
-
-## Projects 
-
-- [Bug Bounty](projects/airship.html)
-
-This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown. This page is written using markdown.  
-
-## Projects 
-
-- [Bug Bounty](projects/airship.html)
+<img class='project-photo' src="../assets/airship/1.jpg">
+<img class='project-photo' src="../assets/airship/1-alternate.jpg">
+<img class='project-photo' src="../assets/airship/2.jpg">
+<img class='project-photo' src="../assets/airship/3.jpg">
+<img class='project-photo' src="../assets/airship/4.jpg">
+<img class='project-photo' src="../assets/airship/5.jpg">
+<img class='project-photo' src="../assets/airship/5-alternate.jpg">
+<img class='project-photo' src="../assets/airship/6.jpg">
+<img class='project-photo' src="../assets/airship/7.jpg">
+<img class='project-photo' src="../assets/airship/8.jpg">

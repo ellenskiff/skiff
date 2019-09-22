@@ -52,7 +52,7 @@ li {
 
 .page_container {
     height: 100vh;
-    padding: 5% 10%;
+    padding: 2.5% 10% 0;
     display: grid;
     grid-template-rows: 100px 1fr;
     grid-template-columns: 1fr 3fr;
@@ -76,6 +76,7 @@ nav a {
     display: flex;
     flex-flow: column;
     justify-content: space-between;
+    margin-bottom: 20%;
 }
 
 .Content {
@@ -92,4 +93,14 @@ nav a {
     font-size: 1.4rem;
     letter-spacing: 2px;
     color: #5144a3;
+}
+
+#hero-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.project-photo {
+    max-width: 100%;
+    height: auto;
 }
