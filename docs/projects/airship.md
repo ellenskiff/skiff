@@ -1,6 +1,5 @@
 ---
-title: "Bug Bounty"
-tags: ['design', 'logo']
+title: "Airship"
 template: lib/templates/_project.mustache
 ---
  
