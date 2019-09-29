@@ -20,6 +20,8 @@ html, body {
 h1 {
     font-size: 2.5rem;
     letter-spacing: 2.5px;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 
 h2 {
@@ -35,10 +37,31 @@ a {
     font-size: 1.6rem;
     text-decoration: none;
     color: black;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+}
+
+a:after {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 0%;
+    position: absolute;
+    background: #FF7BAC;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
 }
 
 a:hover {
     color: #FF7BAC;
+}
+
+a:hover:after {
+    width: 100%;
+    left: 0;
 }
 
 ul {
@@ -67,7 +90,7 @@ li {
 }
 
 nav a {
-    padding-left: 40px;
+    margin-left: 40px;
 }
 
 .LeftSidebar {
@@ -93,6 +116,19 @@ nav a {
     font-size: 1.4rem;
     letter-spacing: 2px;
     color: #5144a3;
+}
+
+.ElsewhereLinks li a:after {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 0%;
+    position: absolute;
+    background: #fff;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
 }
 
 #hero-image {
