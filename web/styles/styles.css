@@ -91,6 +91,7 @@ ul {
     list-style: none;
 }
 
+
 li {
     padding-bottom: 5px;
 }
@@ -166,4 +167,9 @@ nav a {
 .project-photo {
     max-width: 100%;
     height: auto;
+}
+
+#areas_of_expertise, #technical_skills {
+    list-style: disc !important;
+    padding-left: 3rem;
 }

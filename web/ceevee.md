@@ -14,53 +14,65 @@ Innovative graphic design expert with proven record of developing engaging and b
     <dd>Independent Contractor, Portland, Oregon</dd>
     <dt>Graphic Designer - 2016 to 2017</dt>
     <dd>Paylasso Inc, Portland, Oregon</dd>
-
-   
 </dl>
 
 ### Volunteer Experience
 
-- t
-- f
-- t
-- f
-- t
-- f
-
-### Past Clients
-
-- t
-- f
-- t
-- f
+- Graphic Designer - AIGA Portland, 2018 - 2019
+- City Host - The Design Kids, 2018
+- Director of Communications - AIGA@PNCA, 2015 - 2017
 
 ### Areas of Expertise
 
-- t
-- f 
-- t
-- f
-- t
-- f
-- t
-- f
+<ul id="areas_of_expertise">
+<li >Graphic Design</li>    
+<li >Content Creation</li>
+<li >Client Communication</li>
+<li >Creative Direction + Strategy</li>
+<li >Brand Design</li>
+<li >Social Media Outreach</li>
+<li >Logo Design</li>
+<li >Promotional Collateral Design</li>
+<li >Cross-Team Collaboration</li>
+<li >Photo + Video Production</li>
+<li >Website Development + Management</li>
+
+</ul>
+
 
 ### Technical Skills
 
-- t
-- f
-- t
-- f
-- t
-- f
-- t
-- f
+<ul id="technical_skills">
+    <li>Adobe Creative Suite including Premier Pro + After Effects</li>
+    <li>Sketch</li>
+    <li>Video Production</li>
+    <li>Screen Printing</li>
+    <li>Packaging Design</li>
+    <li>Typography</li>
+    <li>Layout Design</li>
+    <li>Design Theory</li>
+    <li>Color Theory</li>
+</ul>
 
 ### Education
 
-- t
-- f
-- t
-- f
+<ul class="with_bullet">
+    <li>
+        <div>B.F.A., Communication Design, 2017</div>
+        <div>Pacific Northwest College of Art,</div>
+        <div>Portland, Oregon</div>
+    </li>
+    <li>
+        <div>A.A., Psychology, 2014</div>
+        <div>Cincinnati State Technical & Community College</div>
+        <div>Cincinnati, Ohio</div>
+    </li>
+</ul>
+
+
+
+
+
+
 
  
