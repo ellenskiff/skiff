@@ -4,4 +4,4 @@ build:
 	rm -r docs
 	mv build/web docs
 	cd docs && echo "ellenskiff.com" >> CMAKE
-	rm -f packages
+	rm -f packages/
