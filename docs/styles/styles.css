@@ -29,10 +29,32 @@ h2 {
     letter-spacing: 2px;
 }
 
-
-p {
+h3 {
     font-size: 1.6rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
 }
+
+p, ul, dl {
+    margin-bottom: 3rem;
+}
+
+p, li, dt {
+    line-height: 2.3rem;
+    font-size: 1.4rem;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    font-size: 1.4rem;
+    padding: 0;
+    margin: 0 0 2rem 0;
+}
+
 a {
     font-size: 1.6rem;
     text-decoration: none;
@@ -68,6 +90,7 @@ ul {
     padding: 0;
     list-style: none;
 }
+
 
 li {
     padding-bottom: 5px;
@@ -110,6 +133,11 @@ nav a {
 }
 
 .ProjectList {
+
+}
+
+.ElsewhereLinks {
+    margin-bottom: 0;
 }
 
 .ElsewhereLinks li a {
@@ -139,4 +167,9 @@ nav a {
 .project-photo {
     max-width: 100%;
     height: auto;
+}
+
+#areas_of_expertise, #technical_skills {
+    list-style: disc !important;
+    padding-left: 3rem;
 }
