@@ -1,0 +1,12 @@
+---
+title: "Cuban Ephemera"
+template: lib/templates/_project.mustache
+---
+
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-1.png">
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-2.png">
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-3.png">
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-4.png">
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-5.png">
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-6.png">
+<img class='project-photo' src="../assets/cuban_ephemera/cuban-7.png">

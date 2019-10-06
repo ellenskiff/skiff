@@ -1,0 +1,12 @@
+---
+title: "Info"
+template: lib/templates/_index.mustache
+---
+
+Born in '92, raised in the Midwest, and hard at work ever since.
+
+Ellen Skiff is a multidisciplinary Graphic Designer in Portland, Oregon. She works with brands to help build their graphic library and convey distinct and meaningful messages. Her expertise include **logo design**, **branding**, **graphic experimentation**, **workflows**, and **typography**. When not computing she's usually riding around to local digs on her bike, planning a camping trip, or working on expanding that circle we call "the comfort zone".
+
+She loves to get coffee. 
+
+She hates writing in the third person.
